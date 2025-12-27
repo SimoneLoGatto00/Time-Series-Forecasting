@@ -32,6 +32,13 @@ The model output is a **vector of real-valued future samples**, of size:
 
 - 9 (Phase 1)  
 - 18 (Phase 2)
+### 📉 Time Series Examples by Class
+
+To understand the data, we visualize a few series from each class:
+
+**Sample time series per class**
+
+<img src="figures/TimeSeriesExamples.png" width="600">
 
 ### 📊 Length Distribution and Class Balance
 
