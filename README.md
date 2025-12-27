@@ -38,7 +38,7 @@ To understand the data, we visualize a few series from each class:
 
 **Sample time series per class**
 
-<img src="figures/TimeSeriesExamples.png" width="600">
+<img src="figures/TimeSeriesExamples.png" width="800">
 
 ### 📊 Length Distribution and Class Balance
 
@@ -54,7 +54,7 @@ We also inspect the **length distribution** and **class balance**:
 
 ```
 
-<img src="figures/ClassDistribution.png" width="400">
+<img src="figures/ClassDistribution.png" width="800">
 
 ---
 
